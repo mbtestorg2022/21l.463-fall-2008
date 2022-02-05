@@ -22,31 +22,288 @@ Rowlandson, Mary. _The Sovereignty and Goodness of God: with Related Documents_.
 Marlowe, Christopher. _Dr. Faustus_. New York, NY: Signet Classics, 2001. ISBN: 9780451527790.  
 \[[Download](http://www.gutenberg.org/etext/811) a version of this work from Project Gutenberg.\]
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introductions |
-| 2 |  {{< br >}}{{< br >}} Columbus, _Cabot_ ([PDF]({{< baseurl >}}/resources/johan_day)) {{< br >}}{{< br >}} Vespucci: [_Diaries and Letters_](http://www.fordham.edu/halsall/mod/1497vespucci-america.html). {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Petrarch, "[_The Ascent of Mount Ventoux_](http://www.fordham.edu/halsall/source/petrarch-ventoux.html)." {{< br >}}{{< br >}} Petrarch, [_Letter to "Socrates."_](http://history.hanover.edu/texts/petrarch/pet02.html) {{< br >}}{{< br >}} Petrarch, [_"Canzoniere" 1-19_](http://petrarch.petersadlon.com/canzoniere.html?poem=1). {{< br >}}{{< br >}}  |
-| 4 | More, [_Utopia_](http://www.gutenberg.org/etext/2130). |
-| 5 |  {{< br >}}{{< br >}} More, [_Utopia_](http://www.gutenberg.org/etext/2130) (cont.) {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Sahagun, Bernardino De. "_The War of Conquest: How It Was Waged Here in Mexico: The Aztecs' Own Story_." {{< br >}}{{< br >}} Cortes, Hernan. "_Letters from Mexico_." {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Sahagun, Bernardino De. "_The War of Conquest: How It Was Waged Here in Mexico: The Aztecs' Own Story_." (cont.) {{< br >}}{{< br >}} Cortes, Hernan. "_Letters from Mexico_." (cont.) {{< br >}}{{< br >}}  |
-| 8 | Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_bk_i)) |
-| 9 |  {{< br >}}{{< br >}} Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_bk_i)) (cont.) {{< br >}}{{< br >}} Conferences on essay 1 {{< br >}}{{< br >}}  |
-| 10 | Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_bk_ii)) |
-| 11 | Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_bk_ii)) (cont.) |
-| 12 | Marlowe, Christopher. [_Dr. Faustus_](http://www.gutenberg.org/etext/811). |
-| 13 | Marlowe, Christopher. [_Dr. Faustus_](http://www.gutenberg.org/etext/811). (cont.) |
-| 14 | Marlowe, Christopher. "[_Tamburlaine_](http://www.gutenberg.org/etext/1094)." |
-| 15 | Marlowe, Christopher. "[_Tamburlaine_](http://www.gutenberg.org/etext/1094)." (cont.) |
-| 16 | Hakluyt, [_Principal Navigations (selections)_](http://ebooks.adelaide.edu.au/h/hakluyt/voyages/) |
-| 17 | Hakluyt, [_Principal Navigations (selections)_](http://ebooks.adelaide.edu.au/h/hakluyt/voyages/) (cont.) |
-| 18 | Writing workshop |
-| 19 | (Tentative) Boston Public Library field trip |
-| 20 | Bacon, [_New Atlantis_](http://www.gutenberg.org/etext/2434) |
-| 21 | Donne, John. _Poems and Prose of John Donne_. Norwalk, CT: The Easton Press, 2001. |
-| 22 | ———. _Poems and Prose of John Donne_. Norwalk, CT: The Easton Press, 2001. |
-| 23 | Bradford, [_Plimoth Plantation_](http://www.fordham.edu/halsall/mod/1650bradford.html) |
-| 24 | Rowlandson, Mary. "[_The Sovereignty and Goodness of God: with Related Documents_](http://www.gutenberg.org/ebooks/851)." |
-| 25 | Rowlandson, Mary. "[_The Sovereignty and Goodness of God: with Related Documents_](http://www.gutenberg.org/ebooks/851)." (cont.) |
-| 26 | Dinner
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Columbus, _Cabot_ ([PDF]({{< baseurl >}}/resources/johan_day))
+
+Vespucci: [_Diaries and Letters_](http://www.fordham.edu/halsall/mod/1497vespucci-america.html).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Petrarch, "[_The Ascent of Mount Ventoux_](http://www.fordham.edu/halsall/source/petrarch-ventoux.html)."
+
+Petrarch, [_Letter to "Socrates."_](http://history.hanover.edu/texts/petrarch/pet02.html)
+
+Petrarch, [_"Canzoniere" 1-19_](http://petrarch.petersadlon.com/canzoniere.html?poem=1).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More, [_Utopia_](http://www.gutenberg.org/etext/2130).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+More, [_Utopia_](http://www.gutenberg.org/etext/2130) (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sahagun, Bernardino De. "_The War of Conquest: How It Was Waged Here in Mexico: The Aztecs' Own Story_."
+
+Cortes, Hernan. "_Letters from Mexico_."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sahagun, Bernardino De. "_The War of Conquest: How It Was Waged Here in Mexico: The Aztecs' Own Story_." (cont.)
+
+Cortes, Hernan. "_Letters from Mexico_." (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_bk_i))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_bk_i)) (cont.)
+
+Conferences on essay 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_bk_ii))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_bk_ii)) (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, Christopher. [_Dr. Faustus_](http://www.gutenberg.org/etext/811).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, Christopher. [_Dr. Faustus_](http://www.gutenberg.org/etext/811). (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, Christopher. "[_Tamburlaine_](http://www.gutenberg.org/etext/1094)."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, Christopher. "[_Tamburlaine_](http://www.gutenberg.org/etext/1094)." (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Hakluyt, [_Principal Navigations (selections)_](http://ebooks.adelaide.edu.au/h/hakluyt/voyages/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hakluyt, [_Principal Navigations (selections)_](http://ebooks.adelaide.edu.au/h/hakluyt/voyages/) (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Writing workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+(Tentative) Boston Public Library field trip
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Bacon, [_New Atlantis_](http://www.gutenberg.org/etext/2434)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Donne, John. _Poems and Prose of John Donne_. Norwalk, CT: The Easton Press, 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+———. _Poems and Prose of John Donne_. Norwalk, CT: The Easton Press, 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Bradford, [_Plimoth Plantation_](http://www.fordham.edu/halsall/mod/1650bradford.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Rowlandson, Mary. "[_The Sovereignty and Goodness of God: with Related Documents_](http://www.gutenberg.org/ebooks/851)."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Rowlandson, Mary. "[_The Sovereignty and Goodness of God: with Related Documents_](http://www.gutenberg.org/ebooks/851)." (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Dinner
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

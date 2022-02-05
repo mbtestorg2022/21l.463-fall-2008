@@ -24,10 +24,39 @@ An online anthology of English literature from the middle ages through the late 
 Course Grades
 -------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Presentations and work in class | 25% |
-| 3 Essays (writing) | 75% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentations and work in class
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Essays (writing)
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -37,31 +66,357 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductions | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Columbus, _Cabot_ {{< br >}}{{< br >}} Vespucci: _diaries and letters_ {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Petrarch, _"The Ascent of Mount Ventoux"_ _letter to "Socrates_", _"Canzoniere"_. {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | More, _Utopia_ | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} More, _Utopia_ (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Cortes/Sahagun, _The war of Conquest_ | &nbsp; |
-| 7 | Cortes/Sahagun, _The war of Conquest_ (cont.) | &nbsp; |
-| 8 | Spenser, _The Faerie Queene_, Book I | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Spenser, _The Faerie Queene_, Book I {{< br >}}{{< br >}} Conferences on essay 1 {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Spenser, _The Faerie Queene_, Book II | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Spenser, _The Faerie Queene_, Book II (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Marlowe, _Faustus_ | &nbsp; |
-| 13 | Marlowe, _Faustus_ (cont.) | Essay 1 due |
-| 14 | Marlowe, _Tamburlaine_ | &nbsp; |
-| 15 | Marlowe, _Tamburlaine_ (cont.) | &nbsp; |
-| 16 | Hakluyt, _Principal Navigations (selections)_ | &nbsp; |
-| 17 | Hakluyt, _Principal Navigations (selections)_ (cont.) | &nbsp; |
-| 18 | Writing workshop | &nbsp; |
-| 19 | (Tentative) Boston Public Library field trip | Essay 2 due |
-| 20 | Bacon, _New Atlantis_ | &nbsp; |
-| 21 | Donne, _poems and prose_ | &nbsp; |
-| 22 | Donne, _poems and prose_ (cont.) | Optional revision due |
-| 23 | Bradford, _Plimoth Plantation_ | &nbsp; |
-| 24 | Rowlandson, _Sovereignty_ | &nbsp; |
-| 25 | Rowlandson, _Sovereignty_ (cont.) | &nbsp; |
-| 26 | Dinner | Essay 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Columbus, _Cabot_
+
+Vespucci: _diaries and letters_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Petrarch, _"The Ascent of Mount Ventoux"_ _letter to "Socrates_", _"Canzoniere"_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More, _Utopia_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+More, _Utopia_ (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cortes/Sahagun, _The war of Conquest_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Cortes/Sahagun, _The war of Conquest_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, _The Faerie Queene_, Book I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spenser, _The Faerie Queene_, Book I
+
+Conferences on essay 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Spenser, _The Faerie Queene_, Book II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spenser, _The Faerie Queene_, Book II (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, _Faustus_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, _Faustus_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, _Tamburlaine_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Marlowe, _Tamburlaine_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Hakluyt, _Principal Navigations (selections)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hakluyt, _Principal Navigations (selections)_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Writing workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+(Tentative) Boston Public Library field trip
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Bacon, _New Atlantis_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Donne, _poems and prose_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Donne, _poems and prose_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Optional revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Bradford, _Plimoth Plantation_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Rowlandson, _Sovereignty_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Rowlandson, _Sovereignty_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Dinner
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
